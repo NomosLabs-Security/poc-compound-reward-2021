@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Compound Proposal 062 — block when bug was active
+fork_block_number = 13379753
